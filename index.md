@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Tietosuojakäytäntö
+
 
 You can use the [editor on GitHub](https://github.com/Sami19841Careeria/Sami19841Careeria.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
