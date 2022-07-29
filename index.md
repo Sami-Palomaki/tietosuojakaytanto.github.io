@@ -7,9 +7,11 @@ personal information.
 2. Consenting to our use of cookies in accordance with the terms of this policy 
 when you first visit our website permits us to use cookies every time you visit 
 our website. 
+
 B. Credit
 1. This document was created using a template from SEQ Legal 
 (seqlegal.com) and modified by vpnMentor (www.vpnmentor.com)
+
 C. How we collect your personal data
 The following types of personal information may be collected, stored, and used:
 1. Information about your computer including your IP address, geographical 
@@ -32,6 +34,7 @@ address, telephone number, email address, and credit card details.
 8. Information that you post to our website with the intention of publishing 
 it on the internet. 
 9. Any other personal information you send to us. 
+
 D. Using Personal Information 
 Personal information submitted to us through our website will be used for the 
 purposes specified in this policy or on the relevant pages of the website. We may 
@@ -62,6 +65,7 @@ Your privacy settings can be used to limit the publication of your information o
 website and can be adjusted using privacy controls on the website. 
 We will not, without your expressed consent, supply your personal information to 
 any third party for their or any other third party’s direct marketing. 
+
 E. Disclosing personal information
 We may disclose your personal information to any of our employees, officers, 
 insurers, professional advisers, agents, suppliers, or subcontractors as reasonably 
@@ -83,6 +87,7 @@ reasonable opinion, such court or authority would be reasonably likely to
 order disclosure of that personal information.
 Except as provided in this policy, we will not provide your personal information to 
 third parties.
+
 F. International data transfers
 1. Information that we collect may be stored, processed in, and transferred 
 between any of the countries in which we operate in order to enable us to 
@@ -96,6 +101,7 @@ publication on our website may be available, via the internet, around the
 world. We cannot prevent the use or misuse of such information by others.
 4. You expressly agree to the transfers of personal information described in 
 this Section F.
+
 G. Retaining personal information
 1. This Section G sets out our data retention policies and procedure, which are 
 designed to help ensure that we comply with our legal obligations regarding 
@@ -114,6 +120,7 @@ prospective legal proceedings; and
 c. in order to establish, exercise, or defend our legal rights (including 
 providing information to others for the purposes of fraud prevention 
 and reducing credit risk).
+
 H. Security of your personal information
 1. We will take reasonable technical and organizational precautions to prevent 
 the loss, misuse, or alteration of your personal information.
@@ -127,11 +134,13 @@ the internet.
 5. You are responsible for keeping the password you use for accessing our 
 website confidential; we will not ask you for your password (except when 
 you log in to our website).
+
 I. Amendments
 We may update this policy from time to time by publishing a new version on our 
 website. You should check this page occasionally to ensure you understand any 
 changes to this policy. We may notify you of changes to this policy by email or 
 through the private messaging system on our website.
+
 J. Your rights
 You may instruct us to provide you with any personal information we hold about 
 you; provision of such information will be subject to the following:
@@ -148,13 +157,16 @@ In practice, you will usually either expressly agree in advance to our use of yo
 personal information for marketing purposes, or we will provide you with an 
 opportunity to opt out of the use of your personal information for marketing 
 purposes.
+
 K. Third party websites
 Our website includes hyperlinks to, and details of, third party websites. We have no 
 control over, and are not responsible for, the privacy policies and practices of third
 parties.
+
 L. Updating information
 Please let us know if the personal information that we hold about you needs to be 
 corrected or updated.
+
 M. Cookies
 Our website uses cookies. A cookie is a file containing an identifier (a string of 
 letters and numbers) that is sent by a web server to a web browser and is stored 
